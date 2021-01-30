@@ -3,7 +3,7 @@
 > movie search application.
 
 ## Installation Instructions
-1. Run ```git clone https://github.com/kateamethyst/react-movie-app.git react-movie-app```
-2. Run ```cd react-movie-app```
+1. Run ```ghttps://github.com/muhal24/react-movie.git```
+2. Run ```cd react-movie```
 3. Run ```npm start```
 
